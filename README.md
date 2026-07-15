@@ -28,10 +28,10 @@ Welcome to my GitHub! I'm a passionate developer currently in my 2nd year of B.T
 * ☕ **[Cafe-POS](https://github.com/Partharsid/cafe-pos)** - Multi-tenant Cloud POS & QR Table Ordering System for RR Downtown Arcade.
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Partharsid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Parth's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partharsid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Parth's Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Partharsid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Parth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partharsid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Parth's Top Languages" />
+</p>
 
 <br>
 <div align="center">
