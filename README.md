@@ -17,9 +17,15 @@ Welcome to my GitHub! I'm a passionate developer currently in my 2nd year of B.T
 - 📫 **How to reach me:** Connect with me on LinkedIn!
 
 ### 🛠️ Tech Stack
-- **Languages:** TypeScript, JavaScript, Python, Java, C  
-- **Web & Backend:** Next.js, React, Express, Node.js, Vercel  
-- **Hardware & AI:** ESP32, n8n, OpenRouter  
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ### 🏆 Featured Projects
 * 🌲 **[EdgeWake](https://github.com/Partharsid/EdgeWake)** - 5-tier cascade Edge AI architecture on ESP32-CAM with cloud-automated alerts.
@@ -27,10 +33,9 @@ Welcome to my GitHub! I'm a passionate developer currently in my 2nd year of B.T
 * 🎌 **[Kana-Dojo](https://github.com/Partharsid/kana-dojo)** - Aesthetic Japanese learning platform sponsored by Vercel.
 * ☕ **[Cafe-POS](https://github.com/Partharsid/cafe-pos)** - Multi-tenant Cloud POS & QR Table Ordering System for RR Downtown Arcade.
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Partharsid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Parth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Partharsid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Parth's Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Partharsid&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Parth's GitHub Streak" />
 </p>
 
 <br>
