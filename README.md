@@ -24,8 +24,8 @@
 <p>
   <a href="https://partharsid.dev/work/residency"><img src="https://partharsid.dev/api/readme/work-residency.svg" alt="Residency Kondapur: the software behind 80+ furnished homes in Hyderabad." width="49%"></a>
   <a href="https://partharsid.dev/work/rr-downtown"><img src="https://partharsid.dev/api/readme/work-rr-downtown.svg" alt="RR Downtown Arcade: bookings, payments and a cafe POS for a sports and VR hub." width="49%"></a>
+  <a href="https://partharsid.dev/work/satyasri"><img src="https://partharsid.dev/api/readme/work-satyasri.svg" alt="SatyaSri Realtors: a trilingual real estate site the owner runs himself." width="49%"></a>
   <a href="https://partharsid.dev/work/tnn"><img src="https://partharsid.dev/api/readme/work-tnn.svg" alt="Team Next Nexus: a self-hosted platform for VIT-AP's tech club." width="49%"></a>
-  <a href="https://partharsid.dev/work/edgewake"><img src="https://partharsid.dev/api/readme/work-edgewake.svg" alt="EdgeWake: a forest sensor that sleeps until a threat is real." width="49%"></a>
 </p>
 
 <a href="https://partharsid.dev/work/edgewake#device">
@@ -93,6 +93,7 @@ Each link opens [partharsid.dev](https://partharsid.dev) with the question alrea
 **Work**
 - [Residency Kondapur](https://partharsid.dev/work/residency): public site, tenant portal and admin console for 80+ furnished homes in Hyderabad.
 - [RR Downtown Arcade](https://partharsid.dev/work/rr-downtown): slot booking, Razorpay payments, a cafe POS and a WhatsApp booking bot.
+- [SatyaSri Realtors](https://partharsid.dev/work/satyasri): trilingual real estate site with a no-code admin panel; every enquiry reaches the owner four ways.
 - [Team Next Nexus](https://partharsid.dev/work/tnn): the VIT-AP tech club's platform, self-hosted on Oracle Cloud ARM.
 - [EdgeWake](https://partharsid.dev/work/edgewake): Smart India Hackathon 2026 forest sensor that sleeps at 115 µA.
 - [vtop-mcp](https://partharsid.dev/work/vtop-mcp): an MCP server that gives AI assistants a student's own university portal.
