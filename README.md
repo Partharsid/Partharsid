@@ -23,7 +23,7 @@
 
 <p>
   <a href="https://partharsid.dev/work/residency"><img src="https://partharsid.dev/api/readme/work-residency.svg" alt="Residency Kondapur: the software behind 80+ furnished homes in Hyderabad." width="49%"></a>
-  <a href="https://partharsid.dev/work/rr-downtown"><img src="https://partharsid.dev/api/readme/work-rr-downtown.svg" alt="RR Downtown Arcade: bookings, payments and a cafe POS for a sports and VR hub." width="49%"></a>
+  <a href="https://partharsid.dev/work/rr-downtown"><img src="https://partharsid.dev/api/readme/work-rr-downtown.svg?v=2" alt="RR Downtown Arcade: bookings, payments and a cafe POS for a sports and VR hub." width="49%"></a>
   <a href="https://partharsid.dev/work/satyasri"><img src="https://partharsid.dev/api/readme/work-satyasri.svg" alt="SatyaSri Realtors: a trilingual real estate site the owner runs himself." width="49%"></a>
   <a href="https://partharsid.dev/work/tnn"><img src="https://partharsid.dev/api/readme/work-tnn.svg" alt="Team Next Nexus: a self-hosted platform for VIT-AP's tech club." width="49%"></a>
 </p>
