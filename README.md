@@ -70,7 +70,7 @@ Each link opens [partharsid.dev](https://partharsid.dev) with the question alrea
 <br><br>
 
 <a href="https://partharsid.dev/#open-source">
-  <img src="https://partharsid.dev/api/readme/oss.svg" alt="Open-source pull requests: merged into sktime, AynOps, kana-dojo and kibsu; in review at NVIDIA garak, checkstyle, powsybl and ai-fabric-framework." width="100%">
+  <img src="https://partharsid.dev/api/readme/oss.svg?v=2" alt="Open-source pull requests: merged into sktime, AynOps, kana-dojo and kibsu; in review at NVIDIA garak, checkstyle, powsybl, ai-fabric-framework and EvoScientist." width="100%">
 </a>
 
 <br><br>
