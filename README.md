@@ -25,7 +25,7 @@
   <a href="https://partharsid.dev/work/residency"><img src="https://partharsid.dev/api/readme/work-residency.svg" alt="Residency Kondapur: the software behind 80+ furnished homes in Hyderabad." width="49%"></a>
   <a href="https://partharsid.dev/work/rr-downtown"><img src="https://partharsid.dev/api/readme/work-rr-downtown.svg?v=2" alt="RR Downtown Arcade: bookings, payments and a cafe POS for a sports and VR hub." width="49%"></a>
   <a href="https://partharsid.dev/work/satyasri"><img src="https://partharsid.dev/api/readme/work-satyasri.svg" alt="SatyaSri Realtors: a trilingual real estate site the owner runs himself." width="49%"></a>
-  <a href="https://partharsid.dev/work/tnn"><img src="https://partharsid.dev/api/readme/work-tnn.svg" alt="Team Next Nexus: a self-hosted platform for VIT-AP's tech club." width="49%"></a>
+  <a href="https://partharsid.dev/work/lmrs"><img src="https://partharsid.dev/api/readme/work-lmrs.svg" alt="LMRS: phone repairs at your door, tracked like a food order." width="49%"></a>
 </p>
 
 <a href="https://partharsid.dev/work/edgewake#device">
@@ -94,6 +94,7 @@ Each link opens [partharsid.dev](https://partharsid.dev) with the question alrea
 - [Residency Kondapur](https://partharsid.dev/work/residency): public site, tenant portal and admin console for 80+ furnished homes in Hyderabad.
 - [RR Downtown Arcade](https://partharsid.dev/work/rr-downtown): slot booking, Razorpay payments, a cafe POS and a WhatsApp booking bot.
 - [SatyaSri Realtors](https://partharsid.dev/work/satyasri): trilingual real estate site with a no-code admin panel; every enquiry reaches the owner four ways.
+- [LMRS](https://partharsid.dev/work/lmrs): doorstep phone repairs and 60-minute accessory delivery; customer and technician apps, admin console and [lmrs.in](https://lmrs.in).
 - [Team Next Nexus](https://partharsid.dev/work/tnn): the VIT-AP tech club's platform, self-hosted on Oracle Cloud ARM.
 - [EdgeWake](https://partharsid.dev/work/edgewake): Smart India Hackathon 2026 forest sensor that sleeps at 115 µA.
 - [vtop-mcp](https://partharsid.dev/work/vtop-mcp): an MCP server that gives AI assistants a student's own university portal.
